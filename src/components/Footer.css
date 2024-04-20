@@ -1,0 +1,24 @@
+.footer {
+  width: fit-content;
+  border-top: 2px solid rgb(255, 255, 255);
+  text-align: justify;
+  padding: 1rem;
+  color: rgba(255, 255, 255, 0.5);
+}
+
+.socials {
+  font-size: 25px;
+  margin-top: 20px;
+  display: flex;
+  gap: 50px;
+  justify-content: center;
+}
+
+.socials a {
+  color: rgb(255, 255, 255);
+}
+
+.socials a:hover {
+  transform: scale(1.2);
+  color: rgb(152, 97, 255);
+}

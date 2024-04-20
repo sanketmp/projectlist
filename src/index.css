@@ -1,0 +1,25 @@
+:root {
+  font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
+  line-height: 1;
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+::-webkit-scrollbar {
+  display: none;
+}
+
+body {
+  color: beige;
+  background-image: radial-gradient(
+    circle at 90% 90%,
+    #000000,
+    #36004d,
+    #000850,
+    #000000
+  );
+  margin: auto;
+  width: 60%;
+}

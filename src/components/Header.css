@@ -1,0 +1,32 @@
+.heading {
+  border-bottom: 2px solid white;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 10px;
+}
+
+.heading .headline {
+  font-size: 20px;
+  font-weight: bold;
+  background: -webkit-linear-gradient(
+    0deg,
+    rgba(255, 234, 35, 1) 40%,
+    rgba(154, 0, 255, 1) 100%
+  );
+  -webkit-background-clip: text;
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.by {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  font-style: italic;
+}
+
+.profilepic {
+  height: 40px;
+  border-radius: 50%;
+}
