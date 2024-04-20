@@ -1,5 +1,5 @@
 import "./Project.css";
-import { projectsArray } from "./data.js";
+import { projectsArray } from "../../data.js";
 
 const Project = () => {
   return (
