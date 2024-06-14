@@ -6,8 +6,8 @@ const Footer = () => {
   return (
     <footer className="footer">
       <span>
-        &emsp;&emsp;Dear visitor, I am currently developing a portfolio website.
-        In the meantime, I have created this separate site solely dedicated to
+        Dear visitor, I am currently developing a portfolio website. In the
+        meantime, I have created this separate site solely dedicated to
         showcasing my projects. This approach allows me to ensure that my
         portfolio site meets the highest standards of quality and presentation.
         Thank you for your understanding and interest in my work. I look forward

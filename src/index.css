@@ -13,13 +13,14 @@
 
 body {
   color: beige;
-  background-image: radial-gradient(
+  /* background-image: radial-gradient(
     circle at 90% 90%,
     #000000,
     #36004d,
     #000850,
     #000000
-  );
+  ); */
+  background-color: black;
   margin: auto;
   width: 60%;
 }
