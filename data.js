@@ -16,6 +16,14 @@ export const projectsArray = [
     demoLink: "https://prakritipatra.netlify.app/",
   },
   {
+    title: "CRUD API",
+    techStack: "NodeJS, ExpressJS, Mongoose",
+    imgSrc: "assets/backend.webp",
+    desc: "Backend REST API for CRUD operations on MongoDB Atlas.",
+    githubLink: "https://github.com/sanketmp/men-stack",
+    demoLink: "",
+  },
+  {
     title: "More on the way...",
     techStack: "",
     imgSrc: "assets/bg.webp",
