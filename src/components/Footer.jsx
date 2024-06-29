@@ -29,7 +29,7 @@ const Footer = () => {
           <FaLinkedin />
         </a>
         <a
-          href="https://twitter.com/sanketDevs"
+          href="https://x.com/sanketDevs"
           className="sociallink"
           target="_blank"
         >
