@@ -24,6 +24,14 @@ export const projectsArray = [
     demoLink: "",
   },
   {
+    title: "MakeMyTrip",
+    techStack: "NodeJS, ExpressJS, Mongoose, ReactJS",
+    imgSrc: "assets/mmt.webp",
+    desc: "The MakeMyTrip clone replicates functionality and user experience of the original platform.",
+    githubLink: "https://github.com/sanketmp/mmt",
+    demoLink: "https://themakemytrip.netlify.app/",
+  },
+  {
     title: "More on the way...",
     techStack: "",
     imgSrc: "assets/bg.webp",
