@@ -1,5 +1,13 @@
 export const projectsArray = [
   {
+    title: "CoBoard",
+    techStack: "Vanilla JS (Vibe), NestJS",
+    imgSrc: "assets/coboard.webp",
+    desc: "A Realtime and Collaborative Whiteboard",
+    githubLink: "https://github.com/sanketmp/coboard",
+    demoLink: "https://coboard-eight.vercel.app/",
+  },
+  {
     title: "triviosa.",
     techStack: "React, Material UI, Redux Toolkit, Thunk.",
     imgSrc: "assets/triviosa.webp",
